@@ -92,20 +92,3 @@ python app.py
 ### Open in Browser
 
 http://127.0.0.1:5000
-
-## Future Enhancements
-
-* Performance category classification
-* Interactive charts and analytics
-* Improved user interface
-* Model accuracy evaluation
-* Cloud deployment
-
-## Author
-
-Satyaveni Kota
-
-B.Tech – CSE (AI & DS)
-
-Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
-.
